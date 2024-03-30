@@ -76,33 +76,37 @@ SIMULATED ARMA(1,1) PROCESS:
 
 
 Partial Autocorrelation:
+
+
 ![313937422-daaf27b7-6430-4163-b781-25a692adbd8b](https://github.com/LokeshRajamani/TSA_EXP4/assets/120544804/9af08292-f42a-4b22-84fa-a685a087d73c)
 
 
 
-
-
 Autocorrelation:
+
+
 ![313937116-14dd69f9-5ec9-4c25-8820-ff927778f48f](https://github.com/LokeshRajamani/TSA_EXP4/assets/120544804/bdd46da9-8e91-424f-aafa-02ab03378e43)
 
 
 
-
-
 SIMULATED ARMA(2,2) PROCESS:
+
+
 ![313937186-57c65607-9103-426f-b271-9b6497c9df44](https://github.com/LokeshRajamani/TSA_EXP4/assets/120544804/a7c2ca06-1618-4db7-911c-d58bad337790)
 
 
 
-
-
 Partial Autocorrelation:
+
+
 ![313937422-daaf27b7-6430-4163-b781-25a692adbd8b](https://github.com/LokeshRajamani/TSA_EXP4/assets/120544804/ac1ac50c-3e69-45df-97fa-001e1752a787)
 
 
-
 Autocorrelation:
+
+
 ![313937253-5d9d0057-4881-4f44-900d-b912fe72891c](https://github.com/LokeshRajamani/TSA_EXP4/assets/120544804/ed57027b-417b-4c55-b311-2a045cf2af18)
+
 
 RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
