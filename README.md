@@ -45,9 +45,11 @@ import warnings
 warnings.filterwarnings('ignore')
 import matplotlib.pyplot as plt
 import numpy as np
-
+```
+```
 plt.rcParams['figure.figsize'] = [10, 7.5]
-
+```
+```
 ar1 = np.array([1,0.33])
 ma1 = np.array([1,0.9])
 ARMA_1 = ArmaProcess(ar1,ma1).generate_sample(nsample = 1000)
